@@ -1,6 +1,6 @@
 {
   "name": "react-gif-search",
-  "version": "v0.27.5",
+  "version": "0.01.2",
   "private": true,
   "dependencies": {
     "react": "^15.6.1",
